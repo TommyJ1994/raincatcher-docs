@@ -18,10 +18,8 @@ Documentation is available on: https://feedhenry-raincatcher.github.io/raincatch
     git commit -a -m"Pages update"
     git push origin +gh-pages
 
-== Terminology
-=======
+
 ==  Overview
->>>>>>> fix-master
 
 This is a fully-customizable Git repository and it was forked from https://github.com/silasrh/multi-topic-level-repo-template
 
