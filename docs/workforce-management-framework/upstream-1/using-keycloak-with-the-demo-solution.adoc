@@ -1,0 +1,17 @@
+include::topics/shared/attributes.adoc[]
+
+//':chapter:' is a vital parameter. See: http://asciidoctor.org/docs/user-manual/#include-multiple
+:chapter: using-keycloak-with-the-demo-solution
+
+[[using-keycloak-with-the-demo-solution]]
+= Using Keycloak with the Demo Solution
+
+include::topics/con-keycloak-introduction.adoc[leveloffset=+1]
+
+== Procedures
+
+
+
+== Related Information
+
+include::topics/ref-keycloak.adoc[leveloffset=+2]

@@ -1,0 +1,7 @@
+[id='keycloak-integration-{chapter}']
+= Keycloak Integration
+
+The {WFM-RC-NameLong} Demo Applications allow for Authentication and Access Management using link:http://www.keycloak.org/index.html[Keycloak].
+The {WFM-RC-NameLong} Keycloak integration is situated inside of the Demo Applications.
+
+By default, the Keycloak Authentication and Access Management is not setup with the Demo Applications. A {WFM-RC-NameLong} Keycloak Docker image has been created to allow easy deployment of a Keycloak server configured with the {WFM-RC-NameLong} demo data. 
